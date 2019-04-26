@@ -1,4 +1,6 @@
-# This is a demo on how to detect microservice problems using Istio, Prometheus and Grafana
+# Using Istio Service Mesh, Prometheus and Grafana, and Kiali for Microservices on OpenShift
+ 
+This is a demo on how to detect microservice problems using Istio, Prometheus and Grafana
 
 - Details to be published in a blog
 
