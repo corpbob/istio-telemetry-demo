@@ -9,9 +9,6 @@ metadata:
     app: kiali
     version: v0.15.0
   name: kiali
-  resourceVersion: "10911169"
-  selfLink: /apis/rbac.authorization.k8s.io/v1/clusterroles/kiali
-  uid: 4d00be4c-2ec8-11e9-9d47-001c42500494
 rules:
 - apiGroups:
   - ""
